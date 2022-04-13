@@ -1,2 +1,5 @@
 # vizualizations
-Miscellaneous custom data visualization tools.  
+
+Bar Mekko style plots
+
+Visualizations for measuring predictive model performance: Cumulative Gains, Lift, Confusion Matrix, Calibration.
