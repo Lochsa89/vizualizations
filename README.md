@@ -2,8 +2,8 @@
 
 ## bar_mekko_plot.R: 
 
-Simple code for quickly creating Bar Mekko style plots with native R plot functions.
+This script uses simple code to quickly create Bar Mekko style plots with native R plot functions. No other graphics pacakges such as ggplot are required.
 
 ## predictive_model_performance.R: 
 
-Visualizations for measuring predictive model performance: Cumulative Gains, Lift, Confusion Matrix, Calibration Plot.
+This code takes an input file of predicted and actual outcomes, and creates visualizations to assess the predictive performance of the model. Visualizations include Cumulative Gains, Lift, Confusion Matrix, Calibration Plot.
